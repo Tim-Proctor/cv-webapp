@@ -5,7 +5,8 @@
 // Set a custom color
 $orange: #f4623a !default;
 $brown: #5c4d42 !default;
-$green: #0f4712 !default;
+$green: #59b351 !default;
+$blue: #2f2d44 !default;
 
 // Set primary color to orange
 $primary: $green !default;
@@ -21,3 +22,5 @@ $headings-font-family: $font-family-sans-serif !default;
 
 // Custom variables
 $navbar-height: 72px;
+
+$box-shadow: 0;
